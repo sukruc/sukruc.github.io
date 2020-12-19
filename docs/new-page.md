@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "PAGE TITLE"
+title: "Brute"
 permalink: /about/
 ---
 
