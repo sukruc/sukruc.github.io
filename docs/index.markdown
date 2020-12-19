@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+### sukruc's blog
+
+Under construction.
